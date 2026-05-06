@@ -49,8 +49,5 @@
 - **Wrap-around**: Khi Pacman đi qua cạnh trái/phải, xuất hiện ở bên kia.
 - **Cải thiện AI**: Làm cho ma thông minh hơn, có thể đi tắt hoặc hợp tác.
 
-## Ảnh chụp màn hình
-![Pacman Game](pacman-ss.png)  <!-- Giả sử có file ảnh, nếu không thì bỏ -->
 
-## Giấy phép
-Dự án này được phát hành dưới giấy phép MIT.
+
