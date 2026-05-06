@@ -1,0 +1,8 @@
+# Compiled Java classes
+*.class
+
+# IDE Configuration (VS Code và IntelliJ)
+.vscode/
+.idea/
+*.iml
+
